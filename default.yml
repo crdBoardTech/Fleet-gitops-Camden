@@ -28,4 +28,4 @@ org_settings:
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
-      destination_url: 
+      destination_url: https://webhook.site/f71b0af7-412f-4665-958b-c1e0cdb0f1f9
